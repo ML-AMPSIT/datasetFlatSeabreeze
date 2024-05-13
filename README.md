@@ -1,6 +1,6 @@
 # Dataset of flat terrain ideal simulations of seabreeze
 
-This dataset was used for a sensitivity analysis performed with ML-AMPSIT, available at http://dx.doi.org/10.5281/zenodo.10789930. The analysis was performed using WRF4.4 (doi:10.5065/D6MK6B4K) simulations perturbing 6 parameters of the land surface model Noah-MP, as described in the paper "ML-AMPSIT: Machine Learning-based Automated Multi-method Parameter Sensitivity and Importance analysis Tool" (10.5194/gmd-2024-56).
+This dataset was used for a sensitivity analysis performed with ML-AMPSIT, available at http://dx.doi.org/10.5281/zenodo.10789930. The analysis was performed using the Weather Research and Forecasting model (WRF version 4.4, doi:10.5065/1dfh-6p97) perturbing 6 parameters of the land surface model Noah-MP (https://doi.org/10.1029/2010JD015139, https://doi.org/10.1029/2010JD015140), as described in the paper "ML-AMPSIT: Machine Learning-based Automated Multi-method Parameter Sensitivity and Importance analysis Tool" (doi:10.5194/gmd-2024-56).
 
 ## Descritpion
 
